@@ -1,5 +1,5 @@
 body{
-    background: rgb(16, 132, 220);
+    background: rgb(33, 81, 118);
 }
 
 
@@ -11,7 +11,7 @@ section{
     width: 500px;
     margin:auto;
     text-align: center;
-    box-shadow: 8px 8px 15px rgb(255, 98, 0);
+    box-shadow: 8px 8px 15px rgb(253, 107, 16);
 }
     
 header{
@@ -24,6 +24,6 @@ header{
 footer{ 
     text-align: center;
     color: white;
-    padding:15px;
+    padding:10px;
 }
  
